@@ -4,7 +4,7 @@
 
 ### COURSE DESCRIPTION:
 
-This class is an introduction to the ethics and essential computational tools and skills for data science. The course will cover command-line coding, literate programming, software development, version control, data wrangling and management, and visualization. The standards for open science, reproducibility, and ethical and responsible computing will also be discussed. Students be expected to use R and GitHub throughout this course.
+This class is an introduction to the ethics and essential computational tools and skills for data science. The course will cover command-line coding, literate programming, software development, version control, data wrangling and management, and visualization. The standards for open science, reproducibility, and ethical and responsible computing will also be discussed. Students will  be expected to use R and GitHub throughout this course.
 
 ### COURSE OBJECTIVES:
 Students who take this course will: 
@@ -22,9 +22,9 @@ An introductory course in statistics, biostatistics, epidemiology, or equivalent
 This class will be taught virtually using a synchronous remote modality, although students will be provided a classroom to gather for each lecture. A co-instructor will be present in the classroom for each lecture. Class will occur Mondays and Wednesdays from 10:00am-11:50am. Courses may also be recorded and made available for students who need to miss classes due to personal reasons, illness, or research related needs.
 
 ### ZOOM LINK AND CLASSROOM:
-Zoom Meeting ID for all sessions is 95398689633, with the passcode: 065918, or use the following direct link (the link is also available though the course GitHub page): https://rutgers.zoom.us/j/95398689633?pwd=fLMqBabEI3KR9qFIFYbswe08IdZM1Q.1.
+Zoom Meeting ID for all sessions is 95398689633, with the passcode: 065918, or use the following direct link (the link is also available through the course GitHub page): https://rutgers.zoom.us/j/95398689633?pwd=fLMqBabEI3KR9qFIFYbswe08IdZM1Q.1.
 
-Room B554 will also be available for the students to congregate for each lecture, with a co-intructor present. 
+Room B554 will also be available for the students to congregate for each lecture, with a co-intructor present.(Room assignemnt can be subject to change)
 
 ### FACULTY AND STAFF: 
 W. Evan Johnson, Ph.D.\
@@ -35,7 +35,7 @@ Co-instructor: Arthur VanValkenburg\
 Email: ajv120@njms.rutgers.edu
 
 ### OFFICE HOURS: 
-**Instructor:** Dr. Johnson will be available virtually by appointment only. Email or text him any time to set up a time to meet!
+**Instructor:** Dr. Johnson will be available virtually by appointment only. Email or text him any time to set up a time to meeting!
 
 ### GitHub REPOSITORY:
 The course GitHub repository is located at: https://github.com/wevanjohnson/2025_Spring_FDS. This page will contain all information in this syllabus plus more. Homework assignments and other information pertinent to this course will be posted on this web site, which will be updated frequently, so you should visit it regularly.
@@ -50,7 +50,7 @@ We will use multiple text resources in this class. None are required, all are fr
 
 ## EVALUATION METHODS & COURSE GRADING
 ### Assessment/Evaluation:
-This course is a hands-on, project-based course. You will be graded based on homework assignments/mini projects (70\%) and your final project (30\%; there will be no final exam). Homework assignments and mini projects will be usually assigned at the beginning of each week and will be due by Wednesday of the week after the material is covered. However, please plan to be flexible on due dates based on the material covered in class.
+This course is a hands-on, project-based course. You will be graded based on homework assignments/mini projects (70\%) and your final project (30\%; there will be no final exam). Homework assignments and mini projects will usually be  assigned at the beginning of each week and will be due by Wednesday of the week after the material is covered. However, please plan to be flexible on due dates based on the material covered in class.
 
 ### Course Grading:
 Grade Scale:
@@ -63,7 +63,7 @@ Grade Scale:
 This course is being taught through a synchronous remote modality through Zoom. Attendance is mandatory; lecture recordings will only be available to students with university approved absences or pre-approved special circumstances. If you are sick or have any other justified reason to miss a lecture, please reach out to Dr. Johnson in advance and you will be reasonably accommodated.
 
 ### WORKLOAD:
-This is an 8-week, 2.0 credit class in the begining of Spring 2025. In general, you should expect four hours of in class each week, and two hours outside of class for every hour in class.
+This is an 8-week, 2.0 credit class in the beginning of Spring 2025. In general, you should expect four hours of in class each week, and two hours outside of class for every hour in class.
 
 ### OTHER HELP: 
 I **strongly** encourage you to contact early me if you have difficulty with the material. This course builds on material from prior lectures, so do not fall behind! My job is to help you understand the material as well as possible, and I am flexible with meeting times.
